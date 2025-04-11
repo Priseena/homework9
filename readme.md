@@ -7,3 +7,4 @@
 5. Note: make sure docker is started
 6. run pytest locally to check that it works locally
 7. Start the app with docker compose up --build
+8. Check the work flow
